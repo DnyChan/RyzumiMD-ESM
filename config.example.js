@@ -30,23 +30,23 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.pairing = '6285864034767'
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.pairing = '62887437195264'
+global.owner = [['6285788390394', 'Scarlatte', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '62887437195264'
+global.nomorown = '6285788390394'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Ryzumi-MD ESM'
-global.wm = '© Ryzumi-MD By Shirokami Ryzen'
+global.author = 'Scarlatte'
+global.namebot = 'Zoltraak-MD ESM'
+global.wm = '© Zoltraak-MD By Scarlatte'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nRyzumi-MD ESM\n+${nomorbot}`
-global.stickauth = `© Ryzumi-MD By Shirokami Ryzen`
+global.stickauth = `© Zoltraak-MD By Scarlatte`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
